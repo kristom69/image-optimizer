@@ -1,6 +1,3 @@
-# image-optimizer
- Python script that uses the PIL (Pillow) library to optimize images. This script will reduce the size of the image without significant loss of quality.
-
 # Image Optimizer
 
 A simple and efficient Python script for optimizing your images. This script uses the PIL (Pillow) library to reduce the size of images without significant loss of quality.
