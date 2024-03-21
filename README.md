@@ -10,7 +10,7 @@ A simple and efficient Python script for optimizing your images in bulk before u
 
 ## Installation
 
-1. Make sure you have Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
+1. Make sure you have Python installed on your machine.
 2. Install the Pillow library with pip:
 
 ```bash
