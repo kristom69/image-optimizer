@@ -15,3 +15,10 @@ A simple and efficient Python script for optimizing your images. This script use
 
 ```bash
 pip install Pillow
+```
+3. If you're using Linux, you might need to install the tkinter library separately, as it's not always included with Python on Linux distributions. On Ubuntu, you can install tkinter with the following command:
+
+```bash
+sudo apt-get install python3-tk
+```
+
